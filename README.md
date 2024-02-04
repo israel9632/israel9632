@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <body>
  <h4>🌱 No momento estou aprendendo: </br> 
   <ul>
-   <li>Linguagem JAVA, Orientada a Objetos<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30"width="50"> </li>
+   <li>Linguagem JAVA, Orientada a Objetos<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" display="flex" height="30"width="50"> </li>
    <li>Banco de Dados MYSQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"height="30"width="50" /> </li></br>
    <li> Focando no Inglês 💬</li></br>
    <li> Contato via: <a href="https://www.linkedin.com/in/israel-da-silva-santos-736580193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20" width="80" target="_blank"></a> </li></br>   
