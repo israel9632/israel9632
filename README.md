@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </head>
 <body>
  <h4>🌱 No momento estou aprendendo: </br> 
-  <ul>
+  <ul></br>
    <li>Linguagem JAVA, Orientada a Objetos ☕</li></br>
    <li>Banco de Dados MYSQL 💾</li></br>
    <li> Focando no Inglês 💬</li></br>
